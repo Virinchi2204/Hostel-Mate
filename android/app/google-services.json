@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101174455063",
+    "project_id": "hostel-mate-52122",
+    "storage_bucket": "hostel-mate-52122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101174455063:android:a1f8def707df7b34226552",
+        "android_client_info": {
+          "package_name": "com.hostelmate.firebaseApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101174455063-4jv7f6n3nt7urlnoc3r9q1j76obb7ofg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEVeS1ea0IZnMvQj5Tsx1vTe39CySRfoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101174455063-4jv7f6n3nt7urlnoc3r9q1j76obb7ofg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
