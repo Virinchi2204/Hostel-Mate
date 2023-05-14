@@ -1,16 +1,5 @@
-# jahnavi
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Hostel Mate
+• Hostel residents’ lives made simpler and more convenient by this app. First‑hand experience creating a practical application for a real life problem.
+• Features like Laundromat Availability check, Bus Schedule, SOS, Complaint register etc are the main features of this app
+• I’ve worked complete on the backend of the project and also developed the user interface (UI) and user experience (UX) design of the app.
+Moving ahead with the Firebase part of the project I used Firebase Authentication to implement secure user authentication and authorization features. Using Firebase cloud‑ firestore worked on all the other features like laundromat Availability, Bus schedule etc.
